@@ -6,11 +6,11 @@ Para la entrega se solicita un modelo relacinal en formato imagen, así como los
 -**Ejercicio 1 - Óptica**
 
 La óptica “Cul d’Ampolla” quiere informatizar la gestión de clientes y ventas de gafas. Para ello se crea una base de datos con las relaciones solicitadas entre Clientes, Proveedores, Gafas, Ventas y Empleados.
-![Diagrama Optica](editar)
+![Diagrama Optica](https://github.com/vortex11211/2.1_Estructura_BasedeDatos_MySQL_Nivel3/blob/master/Nivel%201/Optica/Diagrama_Optica.png)
 
 -**Ejercicio 2 - Pizzería**
 Crear la base de datos para una Pizzeria que tenga las relaciones solicitadas  entre Clientes, Pedidos, empleados, productos, repartos y tiendas.
-![Diagrama Pizzeria](editar)
+![Diagrama Pizzeria](https://raw.githubusercontent.com/vortex11211/2.1_Estructura_BasedeDatos_MySQL_Nivel3/refs/heads/master/Nivel%201/Pizzeria/Diagrama_Pizzeria.png)
 
 Para este nivel, nos piden una serie de requisitos para su entrega:
 
@@ -35,7 +35,7 @@ Para este nivel, nos piden una serie de requisitos para su entrega:
 
 Crear la base de datos para una version compacta de YouTube en que cumpla con las relaciones entre usuarios,suscripciones, canales, videos, listas de reproduccion, etiquetas, comentarios y reacciones según indica el enunciado.
 
-![Diagrama YouTube](editar)
+![Diagrama YouTube](https://raw.githubusercontent.com/vortex11211/2.1_Estructura_BasedeDatos_MySQL_Nivel3/refs/heads/master/Nivel%202/YouTube/diagrama_youtube.png)
 
 Creación de un script de carga con datos de prueba para verificar el funcionamiento.
 
@@ -43,7 +43,7 @@ Creación de un script de carga con datos de prueba para verificar el funcionami
  ⭐⭐⭐
 Crear la estructura de la base de datos que muestre una versión compacta de Spotify, cumpliendo con las relaciones que pide el enunciado entre: Usuarios, suscripciones, pagos, métodos de pago (paypal, tarjeta de crédito), playlists, artistas, albunes, canciones, artistas relacinados y favoritos.
 
-![Diagrama Spotify](editar)
+![Diagrama Spotify](https://raw.githubusercontent.com/vortex11211/2.1_Estructura_BasedeDatos_MySQL_Nivel3/refs/heads/master/Nivel%203/Spotify/Diagrama_Spotify.png)
 
 Creación de un script de carga con datos de prueba para verificar el funcionamiento
 
